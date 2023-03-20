@@ -1,2 +1,3 @@
-# EasyPath
-Makes Windows path easier
+# Starter CPP
+
+**Run you cpp project without waiting**
