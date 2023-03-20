@@ -4,3 +4,12 @@ build/
 *.exe
 *.ico
 *.o
+Makefile
+*/Makefile
+CMakeCache
+*.cmake
+*.a
+src/lib*
+CMakeCache.txt
+CMakeFiles/
+

@@ -2,7 +2,7 @@
 cmake_minimum_required(VERSION 3.0)
 
 # Notre projet est étiqueté tpn2
-project(tpn2)
+project(EasyPath)
 set(CMAKE_CXX_STANDARD 14)
 include_directories(src)
 
