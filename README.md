@@ -1,2 +1,2 @@
-# EasyPath
-Makes Windows path easier
+# Starter CPP
+Get ready as fast as possible
